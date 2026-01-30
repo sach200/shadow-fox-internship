@@ -1,0 +1,54 @@
+{
+  "Match_Summary": {
+    "Total_Events": 12,
+    "Players_Analyzed": 3,
+    "Generated_At": "2026-01-30 12:40:37"
+  },
+  "Player_Performances": [
+    {
+      "Player": "Virat Kohli",
+      "Total_Events": 4,
+      "Clean_Picks": 2,
+      "Catches": 1,
+      "Drops": 0,
+      "Catch_Success_Rate": 100.0,
+      "Run_Outs": 1,
+      "Missed_Run_Outs": 1,
+      "Run_Out_Success_Rate": 50.0,
+      "Runs_Saved": 4,
+      "Runs_Conceded": 3,
+      "Net_Runs_Impact": 1,
+      "Fielding_Efficiency": 50.0
+    },
+    {
+      "Player": "Ravindra Jadeja",
+      "Total_Events": 4,
+      "Clean_Picks": 3,
+      "Catches": 1,
+      "Drops": 0,
+      "Catch_Success_Rate": 100.0,
+      "Run_Outs": 2,
+      "Missed_Run_Outs": 0,
+      "Run_Out_Success_Rate": 100.0,
+      "Runs_Saved": 16,
+      "Runs_Conceded": 0,
+      "Net_Runs_Impact": 16,
+      "Fielding_Efficiency": 75.0
+    },
+    {
+      "Player": "Hardik Pandya",
+      "Total_Events": 4,
+      "Clean_Picks": 1,
+      "Catches": 1,
+      "Drops": 1,
+      "Catch_Success_Rate": 50.0,
+      "Run_Outs": 0,
+      "Missed_Run_Outs": 0,
+      "Run_Out_Success_Rate": 0,
+      "Runs_Saved": 1,
+      "Runs_Conceded": 6,
+      "Net_Runs_Impact": -5,
+      "Fielding_Efficiency": 25.0
+    }
+  ]
+}
